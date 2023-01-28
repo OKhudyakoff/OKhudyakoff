@@ -9,15 +9,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6AF700&center=true&vCenter=true&width=800&lines=I+will+be+glad+to+any+proposals+for+cooperation" alt="Typing SVG" /></a>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://github.com/OKhudyakoff">
-    <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" width="50" height="50" alt="github"/>
+    <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" width="70" height="70" alt="github"/>
   </a>
   <a href="https://t.me/koksfoxx/">
-    <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" width="50" height="50"  alt="Telegram"/>
+    <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" width="70" height="70"  alt="Telegram"/>
   </a>
   <a href="https://vk.com/koksfox">
-    <img src="https://cdn.icon-icons.com/icons2/870/PNG/512/square_vk_icon-icons.com_68020.png" width="50" height="50"  alt="vk"/>
+    <img src="https://cdn.icon-icons.com/icons2/870/PNG/512/square_vk_icon-icons.com_68020.png" width="70" height="70"  alt="vk"/>
   </a>
 </div> 
 
