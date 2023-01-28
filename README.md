@@ -11,13 +11,13 @@
 
 <div id="badges">
   <a href="https://github.com/OKhudyakoff">
-    <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" alt="github"/>
+    <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" width="50" height="50" alt="github"/>
   </a>
   <a href="https://t.me/koksfoxx/">
-    <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" alt="Telegram"/>
+    <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" width="50" height="50"  alt="Telegram"/>
   </a>
   <a href="https://vk.com/koksfox">
-    <img src="https://cdn.icon-icons.com/icons2/870/PNG/512/square_vk_icon-icons.com_68020.png" alt="vk"/>
+    <img src="https://cdn.icon-icons.com/icons2/870/PNG/512/square_vk_icon-icons.com_68020.png" width="50" height="50"  alt="vk"/>
   </a>
 </div> 
 
