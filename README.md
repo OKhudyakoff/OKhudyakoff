@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
 </div>
 
-<h2 align="center">Junior Unity game developer</h2>
+<h2 align="center">I'm Junior Unity game developer</h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6AF700&center=true&vCenter=true&width=800&lines=I+will+be+glad+to+any+offers+for+cooperation" alt="Typing SVG" /></a>
 
