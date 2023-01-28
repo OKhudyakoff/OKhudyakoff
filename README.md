@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Oleg
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AF700&width=435&lines=I+will+be+glad+to+any+proposals+for+cooperation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6AF700&center=true&vCenter=true&width=800&lines=I+will+be+glad+to+any+proposals+for+cooperation" alt="Typing SVG" /></a>
 
 
 
