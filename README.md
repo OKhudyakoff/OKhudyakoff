@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OKhudyakoff)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OKhudyakoff&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OKhudyakoff)  
-![](https://komarev.com/ghpvc/?username=your-github-OKhudyakoff&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-OKhudyakoff&style=for-the-badge)
