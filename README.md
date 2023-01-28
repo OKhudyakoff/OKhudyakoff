@@ -1,10 +1,6 @@
-### Hi there 👋, I'm **Oleg**
-#### I am beginner game developer
-![I am beginner game developer](https://i.gifer.com/Be.gif)
-
-Now I am engaged in the development of my portfolio. I will be glad of any proposals for cooperation.
-
-Skills: C# / Python
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia ????????</h3>
 
 
 
