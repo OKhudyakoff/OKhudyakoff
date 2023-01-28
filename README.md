@@ -11,4 +11,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OKhudyakoff&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OKhudyakoff)  
 
 <img src="https://komarev.com/ghpvc/?username=OKhudyakoff&style=flat-square&color=blue" alt=""/>
-![GitHub Views](https://komarev.com/ghpvc/?username=<OKhudyakoff>)
+![](https://komarev.com/ghpvc/?username=your-github-OKhudyakoff&style=flat-square)
