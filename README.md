@@ -21,8 +21,15 @@
   </a>
 </div> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OKhudyakoff&show_icons=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OKhudyakoff)  
+<p align="center">
+  <table>
+  <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=OKhudyakoff&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=material-palenight"/></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OKhudyakoff&hide=html&layout=compact&hide_border=true&hide_title=true&theme=material-palenight" /></td>
+  </tr>   
+</table>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=your-github-OKhudyakoff&style=for-the-badge)
 
 ## Number of visitors to my profile:
