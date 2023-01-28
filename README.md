@@ -16,5 +16,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OKhudyakoff)  
 ![](https://komarev.com/ghpvc/?username=your-github-OKhudyakoff&style=for-the-badge)
 
-<img src="https://count.getloli.com/get/@:OKhudyakoff?theme=gelbooru" alt=":OKhudyakoff" />
+<img src="https://count.getloli.com/get/@:OKhudyakoff?theme=moebooru" alt=":OKhudyakoff" />
 
