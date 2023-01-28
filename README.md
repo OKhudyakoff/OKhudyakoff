@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Oleg
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+</div>
 <h3 align="center">Computer science student, IT news writer from Russia</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6AF700&center=true&vCenter=true&width=800&lines=I+will+be+glad+to+any+proposals+for+cooperation" alt="Typing SVG" /></a>
 
