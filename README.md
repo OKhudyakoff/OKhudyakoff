@@ -8,6 +8,7 @@
 <h2 align="center">Junior game developer on Unity</h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6AF700&center=true&vCenter=true&width=800&lines=I+will+be+glad+to+any+proposals+for+cooperation" alt="Typing SVG" /></a>
+
 <div id="badges">
   <a href="https://github.com/OKhudyakoff">
     <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" alt="github"/>
